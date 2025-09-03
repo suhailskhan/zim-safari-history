@@ -1,6 +1,6 @@
 # zim-safari-history
 
-A Zim module that provides the `safari-history` command to view Safari browsing history from the command line.
+A Zim module that provides the `safari-history` command to view Safari browsing history from the command line, with timestamps.
 
 ## Installation
 
@@ -41,4 +41,4 @@ safari-history 200
 
 ## Credits
 
-This module was inspired by [Jeffrey Russ](https://github.com/Jeff-Russ)’s [“Show Safari History with Timestamps” gist](https://gist.github.com/Jeff-Russ/215387f9c06f827f8623d186e308e77b).
+This module was inspired by [Jeffrey Russ](https://github.com/Jeff-Russ)’s [“Show Safari History with Timestamps” gist](https://gist.github.com/Jeff-Russ/215387f9c06f827f8623d186e308e77b). The zsh function used in this module comes from this gist.
